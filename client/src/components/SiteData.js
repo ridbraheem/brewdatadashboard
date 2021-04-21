@@ -1,9 +1,9 @@
 export const SiteData = 
     {
         "company": { 
-           "name": "ASTON CARTER",
+           "name": "BrewData",
            "path": "/user/dashboard", 
-           "description": "Aston Carter is the world’s leading community for creatives to share, grow, and get hired"
+           "description": "BrewData is the world’s leading community for creatives to share, grow, and get hired"
         },
         "person": {
            "fname": "Ridwanullah",
